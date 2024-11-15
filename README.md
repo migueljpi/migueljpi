@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Welcome to my GitHub page! I am currently Web Development at Le Wagon, aiming to become a software developer very soon. 😄
+
+Link with me on [LinkedIn](https://www.linkedin.com/in/miguelines/).
+
 <!--
 **migueljpi/migueljpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
