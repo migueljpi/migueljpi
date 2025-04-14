@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-Welcome to my GitHub page! I am currently Web Development at Le Wagon, aiming to become a software developer very soon. 😄
+Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄
 
 Link with me on [LinkedIn](https://www.linkedin.com/in/miguelines/).
+
+Check out [Compawtible](www.compawtible.com), where your perfect pet match is waiting. 🐶🐱🐹
 
 <!--
 **migueljpi/migueljpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
