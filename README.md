@@ -4,7 +4,7 @@ Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wago
 
 Link with me on [LinkedIn](https://www.linkedin.com/in/miguelines/).
 
-Check out [Compawtible](www.compawtible.me), where your perfect pet match is waiting. 🐶🐱🐹
+Check out [Compawtible](https://www.compawtible.me), where your perfect pet match is waiting. 🐶🐱🐹
 
 
 
