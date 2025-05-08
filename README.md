@@ -6,6 +6,10 @@ Link with me on [LinkedIn](https://www.linkedin.com/in/miguelines/).
 
 Check out [Compawtible](www.compawtible.com), where your perfect pet match is waiting. 🐶🐱🐹
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=miguelines&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelines&layout=compact&theme=radical)
+
+
 <!--
 **migueljpi/migueljpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
