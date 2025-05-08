@@ -4,10 +4,9 @@ Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wago
 
 Link with me on [LinkedIn](https://www.linkedin.com/in/miguelines/).
 
-Check out [Compawtible](www.compawtible.com), where your perfect pet match is waiting. 🐶🐱🐹
+Check out [Compawtible](www.compawtible.me), where your perfect pet match is waiting. 🐶🐱🐹
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=miguelines&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelines&layout=compact&theme=radical)
+
 
 
 <!--
