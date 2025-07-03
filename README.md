@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄
 
-Link with me on [LinkedIn](https://www.linkedin.com/in/miguelines/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/miguelines/).
 
 Check out [Compawtible](https://www.compawtible.me), where your perfect pet match is waiting. 🐶🐱🐹
 
