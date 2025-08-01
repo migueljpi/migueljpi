@@ -1,7 +1,7 @@
 <div align="left">
   Hi there! 
 
-  Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄
+  Welcome to my GitHub page! I've completed the Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer at the moment. 😄
   
   ---
   
