@@ -27,13 +27,17 @@ class Developer
     @age = 32
     @work = "Teaching Assistant at Le Wagon"
     @education = ["Le Wagon", "University of Lisbon"]
-    @hobbies = ["Making music", "Sound design", "Working out", "Robotics", "TTRPGs", "Reading", "Gamin"]
+    @hobbies = ["Making music", "Sound design", "Working out", "Robotics", "TTRPGs", "Reading", "Gaming"]
     @future_stack = ["React Native"]
   end
 
   def hello
-    puts "Hi, I'm #{@name}, a #{age}-year-old developer passionate about #{@hobbies.sample.downcase} and building cool stuff!"
-  end
+    puts "Hi, I'm #{@name}, a developer with experience in
+    @stack.each do |technology|
+      puts "#{technology}, "
+    end
+    puts "and a lover of #{@hobbies.sample.downcase}!"
+  end  
 
   def looking_for_job?
     true
@@ -44,7 +48,7 @@ class Developer
   end
 
   def learn
-    puts "#{@name} is currently learning #{@future_stack.first}"
+    puts "I'm currently learning #{@future_stack.first}"
   end
 end
 
