@@ -1,28 +1,20 @@
 <div align="left">
 
-<h2>Hi there 👋</h2>
+  <h2>Hi there 👋</h2>
+  
+  <p>
+    Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄<br>
+  </p>
+  
+  <br>
 
-<p>
-  Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄<br>
-</p>
-
-<br>
-
-<div style="display: flex; justify-content: left; gap: 20px; flex-wrap: wrap;">
-
-  <a href="https://miguel-ines.com/" target="_blank">
-    Portfolio
-  </a>
-
-  <a href="https://www.linkedin.com/in/miguelines/" target="_blank">
-    LinkedIn
-  </a>
-
-  <a href="https://www.compawtible.me" target="_blank">
-    Compawtible
-  </a>
-
-</div>
+  <div align="left">
+  
+    <p><a href="https://miguel-ines.com/" target="_blank">🌐 Portfolio</a></p>
+    <p><a href="https://www.linkedin.com/in/miguelines/" target="_blank">💼 LinkedIn</a></p>
+    <p><a href="https://www.compawtible.me" target="_blank">🐾 Compawtible</a></p>
+  
+  </div>
 
 </div>
 
