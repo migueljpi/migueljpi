@@ -1,18 +1,27 @@
 <div align="left">
 
-  <h2>Hi there 👋</h2>
+  ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f44b.svg" width="24" /> Hi there
+
+  Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄
   
-  <p>
-    Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄
+  ---
+  
+  ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="20" /> Links
+  
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="20" />
+    <a href="https://miguel-ines.com/" target="_blank">Portfolio</a>
   </p>
-
-  <hr>
-
-
-
-  <p><a href="https://miguel-ines.com/" target="_blank">🌐 Portfolio</a></p>
-  <p><a href="https://www.linkedin.com/in/miguelines/" target="_blank">💼 LinkedIn</a></p>
-  <p><a href="https://www.compawtible.me" target="_blank">🐾 Compawtible</a></p>
+  
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bc.svg" width="20" />
+    <a href="https://www.linkedin.com/in/miguelines/" target="_blank">LinkedIn</a>
+  </p>
+  
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f43e.svg" width="20" />
+    <a href="https://www.compawtible.me" target="_blank">Compawtible</a>
+  </p>
 
 </div>
 
@@ -32,12 +41,12 @@ class Developer
   end
 
   def hello
-    puts "Hi, I'm #{@name}, a developer with experience in
+    puts "Hi, I'm #{@name}, a developer with experience in:"
     @stack.each do |technology|
-      puts "#{technology}, "
+      puts " - #{technology}"
     end
     puts "and a lover of #{@hobbies.sample.downcase}!"
-  end  
+  end
 
   def looking_for_job?
     true
