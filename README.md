@@ -9,17 +9,60 @@
 
 <br>
 
-<a href="https://miguel-ines.com/">
-  <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge" alt="Portfolio" />
-</a>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<a href="https://www.linkedin.com/in/miguelines/">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-</a>
+  <a href="https://miguel-ines.com/" target="_blank" style="
+      text-decoration: none;
+      color: white;
+      background-color: #b05800;
+      padding: 30px;
+      width: 150px;
+      height: 150px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    ">
+    🌐 Portfolio
+  </a>
 
-<a href="https://www.compawtible.me">
-  <img src="https://img.shields.io/badge/Try-Compawtible-green?style=for-the-badge&logo=pets" alt="Compawtible" />
-</a>
+  <a href="https://www.linkedin.com/in/miguelines/" target="_blank" style="
+      text-decoration: none;
+      color: white;
+      background-color: #b05800;
+      padding: 30px;
+      width: 150px;
+      height: 150px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    ">
+    💼 LinkedIn
+  </a>
+
+  <a href="https://www.compawtible.me" target="_blank" style="
+      text-decoration: none;
+      color: white;
+      background-color: #b05800;
+      padding: 30px;
+      width: 150px;
+      height: 150px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    ">
+    🐾 Compawtible
+  </a>
+
+</div>
 
 </div>
 
