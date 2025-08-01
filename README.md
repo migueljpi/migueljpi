@@ -6,13 +6,17 @@
     Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄
   </p>
 
-  <br>
+  <hr>
+
+
 
   <p><a href="https://miguel-ines.com/" target="_blank">🌐 Portfolio</a></p>
   <p><a href="https://www.linkedin.com/in/miguelines/" target="_blank">💼 LinkedIn</a></p>
   <p><a href="https://www.compawtible.me" target="_blank">🐾 Compawtible</a></p>
 
 </div>
+
+<hr>
 
 
 ```ruby
@@ -44,23 +48,3 @@ class Developer
   end
 end
 
-
-
-
-
-
-
-<!--
-**migueljpi/migueljpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
