@@ -1,30 +1,21 @@
 <div align="center">
 
-## 👋 Hi there
+<h2>Hi there 👋</h2>
 
-Welcome to my GitHub page!  
-I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄  
-Currently learning React Native!
+<p>
+  Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄<br>
+  Currently learning React Native!
+</p>
 
----
-
-### 🌐 Portfolio
+<br>
 
 <a href="https://miguel-ines.com/">
   <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge" alt="Portfolio" />
 </a>
 
----
-
-### 🤝 Connect with me
-
 <a href="https://www.linkedin.com/in/miguelines/">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
 </a>
-
----
-
-### 🐾 Project Spotlight
 
 <a href="https://www.compawtible.me">
   <img src="https://img.shields.io/badge/Try-Compawtible-green?style=for-the-badge&logo=pets" alt="Compawtible" />
