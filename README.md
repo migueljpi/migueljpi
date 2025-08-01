@@ -37,7 +37,7 @@ class Developer
   end
 
   def hello
-    puts "Hi, I'm #{@name}, a developer with experience in:"
+    puts "Hi, I'm #{@name}, a developer with experience in"
     @stack.each do |technology|
       puts " - #{technology}"
     end
