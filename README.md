@@ -1,25 +1,21 @@
 <div align="left">
-
-  ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f44b.svg" width="24" /> Hi there
+  Hi there! 
 
   Welcome to my GitHub page! I just finished a Web Development bootcamp at Le Wagon, and I'm looking for my first job as a web developer. 😄
   
   ---
   
-  ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="20" /> Links
+  Links
   
   <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="20" />
     <a href="https://miguel-ines.com/" target="_blank">Portfolio</a>
   </p>
   
   <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bc.svg" width="20" />
     <a href="https://www.linkedin.com/in/miguelines/" target="_blank">LinkedIn</a>
   </p>
   
   <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f43e.svg" width="20" />
     <a href="https://www.compawtible.me" target="_blank">Compawtible</a>
   </p>
 
